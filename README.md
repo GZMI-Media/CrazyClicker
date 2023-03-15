@@ -4,6 +4,9 @@
 
 Dieses Projekt wurde in nur 7 Tagen in Unity in der Grundversion mit C# entwickelt, nachdem es ursprünglich als Python-Projekt begann und dann mit JS programmiert werden sollte.
 
+## Warum gibts uns auf GitHub?
+
+Das GitHub Repository ist zumindest vorerst nicht erstellt worden, da wir das Projekt OpenSource machen wollen, sondern weil wir es Dokumentieren wollen. Ebenfalls möchten wir es kostenlos irgendwo anbieten und möglicherweise Rückmeldung bekommen, für Verbesserung und BugReports.
 ## Was ist CookieClicker?
 
 CookieClicker ist ein einfaches Spiel, bei dem der Spieler Kekse durch Klicken auf einen Keks auf dem Bildschirm sammelt. Je mehr Kekse gesammelt werden, desto mehr Upgrades und Gegenstände können gekauft werden, um die Anzahl der Kekse zu erhöhen.
