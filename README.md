@@ -2,7 +2,7 @@
 
 ![CookieClicker](https://i.ibb.co/d5cHBZQ/24-AB988-C-EE21-42-CB-B79-D-001-FADE77904.png)
 
-Dieses Projekt wurde in nur 7 Tagen in Unity mit C# entwickelt, nachdem es ursprünglich als Python-Projekt begann und dann mit JS programmiert werden sollte.
+Dieses Projekt wurde in nur 7 Tagen in Unity in der Grundversion mit C# entwickelt, nachdem es ursprünglich als Python-Projekt begann und dann mit JS programmiert werden sollte.
 
 ## Was ist CookieClicker?
 
@@ -14,7 +14,7 @@ Um das Spiel zu spielen, klicke einfach auf den Keks auf dem Bildschirm, um Keks
 
 ## Wie man das Projekt einrichtet
 
-Um das Projekt zu verwenden, benötigst du die Unity Engine und die neueste Version von C#. Clone das Repository und öffne es in Unity.
+Um das Projekt zu verwenden, benötigst du nur unseren Installer, den du in den Releases finden kannst. Diesen führst du dann aus, mithilfe von Ihm wirst du durch die Installation geleitet.
 
 ## Autoren
 
