@@ -11,9 +11,6 @@ Das GitHub Repository ist zumindest vorerst nicht erstellt worden, da wir das Pr
 
 CookieClicker ist ein einfaches Spiel, bei dem der Spieler Kekse durch Klicken auf einen Keks auf dem Bildschirm sammelt. Je mehr Kekse gesammelt werden, desto mehr Upgrades und Gegenstände können gekauft werden, um die Anzahl der Kekse zu erhöhen.
 
-## Wie man das Spiel spielt
-
-Um das Spiel zu spielen, klicke einfach auf den Keks auf dem Bildschirm, um Kekse zu sammeln. Mit den gesammelten Keksen kannst du Upgrades kaufen, um mehr Kekse pro Klick oder automatisch zu generieren. Du kannst auch verschiedene Gegenstände kaufen, um dein Gameplay zu verbessern.
 
 ## Wie man das Projekt einrichtet
 
