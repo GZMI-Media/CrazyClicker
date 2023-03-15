@@ -1,6 +1,6 @@
 # CookieClicker - C# & Unity
 
-CookieClicker Screenshot
+![CookieClicker](https://i.ibb.co/d5cHBZQ/24-AB988-C-EE21-42-CB-B79-D-001-FADE77904.png)
 
 Dieses Projekt wurde in nur 7 Tagen in Unity mit C# entwickelt, nachdem es ursprünglich als Python-Projekt begann und dann mit JS programmiert werden sollte.
 
