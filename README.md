@@ -22,6 +22,7 @@ Um das Projekt zu verwenden, benötigst du nur unseren Installer, den du in den 
 ## Autoren
 
 Jan Möllenkamp
+
 Wir haben dieses Projekt als Teil des Gazami Projektes erstellt.
 
 ## Lizenz
